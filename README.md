@@ -189,17 +189,3 @@ go test -bench=. ./tests
 * Snapshot support
 * Distributed replication (Raft)
 * gRPC interface
-
----
-
-## Motivation
-
-This project was built to gain hands-on experience with storage engine internals and to better understand how modern key-value databases such as LevelDB and RocksDB work.
-
----
-
-## License
-
-MIT License
-
-
